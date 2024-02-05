@@ -68,8 +68,8 @@
 .button_back{
     padding: 10px 20px;
     font-size: 150%;
-    background-color: #b39272;
-    color: rgb(0, 0, 0); 
+    background-color: #4f3d32;
+    color: rgba(255, 255, 255, 0.532); 
     border: none; 
     border-radius: 10px; 
     cursor: pointer;
