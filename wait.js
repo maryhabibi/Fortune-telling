@@ -8,7 +8,7 @@ function load() {
     }, 1000);
 
     //////automatic redirect
-    setTimeout(function () { window.location.href = 'interpretation.html' }, 6000);
+    setTimeout(function () { window.location.href = 'interpretation.html' }, 5000);
 
 }
 
