@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Bad+Script&family=Calligraffitti&family=Diphylleia&display=swap");
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    font-family: 'Diphylleia', serif;
+    
+  }
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #463324;
+}
+
+table {
+    width: 80%;
+    height: 600px;
+    border-collapse: collapse;
+    
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+
+td {
+    text-align: center;
+    height: 200px;
+    width: 100px; 
+    
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+
+table, th, td {
+    border: 15px solid #563d2a;
+}
+
+
+.mouse-random-char {
+    position: absolute;
+    pointer-events: none;
+  }

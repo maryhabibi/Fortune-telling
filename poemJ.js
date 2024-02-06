@@ -49,7 +49,7 @@ function load_poetry() {
 
 
 function redirect() {
-    var internalPagePath = 'interpretation.html';
+    var internalPagePath = 'wait.html';
     window.location.href = internalPagePath;
 }
 
